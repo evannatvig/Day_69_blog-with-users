@@ -1,3 +1,3 @@
-# Day_69_blog-with-users
+# Natvig_Blog
 
 Showcase: https://natvig-blog.herokuapp.com/
